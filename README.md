@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer | Backend Developer 
 
-##### I am an aspiring AI/ML Engineer with a strong background inbackend development. My knowledge spans across frameworks such as Spring , FastAPI allowing me to deliver robust and scalable solutions. The pursuit of efficient AI apps drives me.
+I am an aspiring AI/ML Engineer with a strong background inbackend development. My knowledge spans across frameworks such as Spring , FastAPI allowing me to deliver robust and scalable solutions. The pursuit of efficient AI apps drives me.
 
 #### Tech Stack⚙️
 
