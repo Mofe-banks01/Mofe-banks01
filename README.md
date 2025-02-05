@@ -1,8 +1,8 @@
 ## Hi there :wink:
 
-## Im Mofe Banks
+## Im Mofe Bankole
 
-### AI/ML Engineer | Backend Developer | Web3 glazer
+### AI/ML Engineer | Backend Developer | deFi Ninja
 
 Hey, im an aspiring AI engineer but hey i cant help it, I have a knack for Backend with Spring Boot and Web3.
 Feel free to hit me up.
