@@ -2,9 +2,11 @@
 
 ## Im Mofe Banks
 
-### AI/ML Engineer | Backend Developer 
+### AI/ML Engineer | Backend Developer | Web3 glazer
 
-I am an aspiring AI/ML Engineer with a strong background inbackend development. My knowledge spans across frameworks such as Spring , FastAPI allowing me to deliver robust and scalable solutions. The pursuit of efficient AI apps drives me.
+Hey, im an aspiring AI engineer but hey i cant help it, I have a knack for Backend with Spring Boot and Web3.
+Feel free to hit me up.
+Lets build great things together🏗️
 
 #### Tech Stack⚙️
 
